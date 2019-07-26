@@ -1,4 +1,3 @@
-
 calc = (n) => {
 	return Math.sqrt(n);
 }

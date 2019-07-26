@@ -12,3 +12,5 @@ console.log("123456789".split("").reverse().join(""));
 //   }
 //   let n = 12367001109;
 //   revert(n) // 90110076321
+
+// sorry i don't know how do it)

@@ -7,8 +7,10 @@ if(a % 2) {
 
 console.log(a(5));
  */
+calc= () =>{
+    ()=> a%2 ? a * b : a + b;
+}
 
 
-()=> a%2 ? a * b : a + b;
 
 console.log(a(5));
