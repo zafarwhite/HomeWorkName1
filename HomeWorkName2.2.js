@@ -1,9 +1,9 @@
-const primeNumber = () =>{
+const primeNumber = () => {
 	nextPrime: for (var i = 2; i <= 100; i++) {
 
 		for (var j = 2; j < i; j++) {
 			if (i % j == 0) continue nextPrime;
 		}
-		console.log( i ); // простое
+// 		console.log( i ); // простое
 	};
 }
